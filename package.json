@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariagolubeva/js_automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariagolubeva/js_automation/issues"
+  },
+  "homepage": "https://github.com/mariagolubeva/js_automation#readme",
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  },
+  "dependencies": {
+    "jasmine-spec-reporter": "^7.0.0"
+  }
+}
